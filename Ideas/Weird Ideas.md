@@ -1,0 +1,5 @@
+- So Imagine if There's a Web of IoMT devices and According to that we can have Ambulances and Stuff Stations Efficiently with Some Algorithm
+- Better fucking Regulation Oml? like have laws for this otherwise its just a straight road to dystopia.
+-   The IoT suffers from [platform fragmentation](zim://ada09bae-8e7e-547b-35ba-f75e9ca2af8c.zim/A/Platform_fragmentation "Platform fragmentation"), lack of interoperability and common [technical standards](zim://ada09bae-8e7e-547b-35ba-f75e9ca2af8c.zim/A/Technical_standard "Technical standard") [Wikipedia Internet Of Things] 
+	- Like Same for Multiple Types of Histopathology Scans and Stuff. Simply a Nightmare to work with, Standardise it somehow?
+![[Internet of things.pdf#Criticism]]

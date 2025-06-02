@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "3a16df97c332813e",
+    "type": "split",
+    "children": [
+      {
+        "id": "053c9787fbfcc869",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3927b313e4842a71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibliography Read.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bibliography Read"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d795faad51a30fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c6ca0f1378fce2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6d4f98a0818e4cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "374be66b2a33b62d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "239c12b359d2065f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd46e22385469e8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffb8458cd25aac53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66832a388644aba9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Roadmap"
+            }
+          },
+          {
+            "id": "f8427471594f4659",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Roadmap"
+            }
+          },
+          {
+            "id": "e1a8ea2440988e4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "63b9af6266f3b8e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3927b313e4842a71",
+  "lastOpenFiles": [
+    "Bibliography Unread.md",
+    "Bibliography Read.md",
+    "Roadmap.md",
+    "Ideas/Weird Ideas.md",
+    "Papers and Resources/Internet of things.pdf",
+    "Papers and Resources/Internet Of Things_files/library_data/a.html",
+    "Papers and Resources/Internet Of Things_files/library.html",
+    "Papers and Resources/Internet Of Things_files/Internet_of_things.html",
+    "Papers and Resources/Internet Of Things.html",
+    "Papers and Resources/Internet Of Things_files/library_data",
+    "Papers and Resources/Internet Of Things_files/Internet_of_things_data",
+    "Papers and Resources/Internet Of Things_files",
+    "Papers and Resources/Internet of things.markdownpdf",
+    "Papers and Resources/Nano-enabled biosensing systems for intelligent healthcare_ towards COVID-19 management - PMC.pdf",
+    "Untitled.md"
+  ]
+}
