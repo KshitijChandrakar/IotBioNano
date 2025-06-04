@@ -10,5 +10,7 @@ Main challenges are
 5. how coexist with complex human biological systems
 6. also security and privacy
 
+[Communication](IotBioNano/Ideas/Communication)
 
+[Types](IotBioNano/Ideas/Types_Of_BNT)
 

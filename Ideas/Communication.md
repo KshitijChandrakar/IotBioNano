@@ -26,4 +26,14 @@ nanonetworks](J62.pdf)
 THESE ARE SO FUCKING COOL?
 ok like they make waves of pottasium when the colony is starved and then the waves reach the border of the colony and tells it to stop growing cause no food like damn
 [QUORUM SENSING: Cell-to-Cell Communication in Bacteria](https://doi.org/10.1146/annurev.cellbio.21.012704.131001) 
+[The evolution of social behavior in microorganisms](crespi2001.pdf)
+[Multi-hop conjugation based bacteria nanonetworks](balasubramaniam2013.pdf)
+[Opportunistic routing through conjugation in bacteria commu-
+nication nanonetwork](10.1016@j.nancom.2011.10.003.pdf)
+[Genetically engi-
+neered bacteria-based biotransceivers for molecular communication](unluturk2015.pdf)
+[The impact of social behavior on the attenuation and delay of bacterial nanonetworks](unluturk2016.pdf)
+
+3. Theres also Plant Bionetworks which in of themselves are incredibly cool but not relevant enough for this project, read up on it later though.
+
 
