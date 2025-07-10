@@ -11,14 +11,10 @@
             "id": "3927b313e4842a71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibliography Read.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bibliography Read"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fd46e22385469e8c",
@@ -170,6 +167,12 @@
   },
   "active": "3927b313e4842a71",
   "lastOpenFiles": [
+    "Writing/Communication.typ~",
+    "Writing/Main.typ~",
+    "Writing/FinalBibliography.md~",
+    "Papers_and_Resources/A_Comprehensive_Survey_of_Recent_Advancements_in_Molecular_Communication.pdf",
+    "Writing/Communication.typ",
+    "Ideas/Individual Paper Notes/2112.0249.md~",
     "Bibliography Unread.md",
     "Bibliography Read.md",
     "Roadmap.md",
@@ -179,11 +182,6 @@
     "Papers and Resources/Internet Of Things_files/library.html",
     "Papers and Resources/Internet Of Things_files/Internet_of_things.html",
     "Papers and Resources/Internet Of Things.html",
-    "Papers and Resources/Internet Of Things_files/library_data",
-    "Papers and Resources/Internet Of Things_files/Internet_of_things_data",
-    "Papers and Resources/Internet Of Things_files",
-    "Papers and Resources/Internet of things.markdownpdf",
-    "Papers and Resources/Nano-enabled biosensing systems for intelligent healthcare_ towards COVID-19 management - PMC.pdf",
     "Untitled.md"
   ]
 }
