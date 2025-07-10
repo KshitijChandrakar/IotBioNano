@@ -33,7 +33,15 @@ nication nanonetwork](10.1016@j.nancom.2011.10.003.pdf)
 [Genetically engi-
 neered bacteria-based biotransceivers for molecular communication](unluturk2015.pdf)
 [The impact of social behavior on the attenuation and delay of bacterial nanonetworks](unluturk2016.pdf)
+[The Thing with E.coli: Highlighting
+Opportunities and Challenges of
+Integrating Bacteria in IoT and HCI](1910.01974v1.pdf)
 
 3. Theres also Plant Bionetworks which in of themselves are incredibly cool but not relevant enough for this project, read up on it later though.
 
+### Types of Communication Between them
+1. [Molecular Communication](IotBioNano/Ideas/MolecularCommunication)
+
+1. The amount of incredibly personal data generated would lead
+6. also security and privacy
 

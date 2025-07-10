@@ -1,0 +1,17 @@
+1 : [http://dx.doi.org/10.1016/j.nancom.2011.10.002](1-s2.0-S187877891100055X-main.pdf)
+2 : [doi:10.1109/mcom.2014.6807957](J62.pdf)
+3 : [doi: 10.1002/anie.201609841](leigh2016.pdf)
+4 : [doi: 10.1109/TCOMM.2012.010213.110093](A_Physical_Channel_Model_for_Nanoscale_Neuro-Spike_Communications.pdf)
+5 : [doi: 10.48550/arXiv.2009.00090](2009.00090v1.pdf)
+6 : [https://doi.org/10.48550/arXiv.2506.14266](2506.14266v1.pdf)
+7 : [http://dx.doi.org/10.1016/j.nancom.2011.10.003](10.1016@j.nancom.2011.10.003.pdf) 
+8 : [https://doi.org/10.1145/3290607](1910.01974v1.pdf)
+9 : [doi : 10.1109/tnb.2017.2707482 ](Diffusion-Based_Model_for_Synaptic_Molecular_Communication_Channel.pdf)
+10 : [10.1016/s0169-5347(01)02115-2](crespi2001.pdf)
+11 : [10.1016/s0169-5347(01)02115-2](crespi2001.pdf)
+12 : [http://dx.doi.org/10.1016/j.nancom.2011.10.002](malak2012.pdf)
+13 : [10.1109/TCOMM.2015.2398857](unluturk2015.pdf)
+14 : [10.1109/TNB.2016.2627081](unluturk2016.pdf)
+
+
+
