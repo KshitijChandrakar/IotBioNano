@@ -13,5 +13,8 @@
 13 : [10.1109/TCOMM.2015.2398857](unluturk2015.pdf)
 14 : [10.1109/TNB.2016.2627081](unluturk2016.pdf)
 15 : [Farsad, N., Yilmaz, H. B., Eckford, A., Chae, C. B., & Guo, W. (2016). A comprehensive survey of recent advancements in molecular communication. IEEE Communications Surveys & Tutorials, 18(3), 1887-1919.](A_Comprehensive_Survey_of_Recent_Advancements_in_Molecular_Communication.pdf)
+16 : [R. P. Feynman, “Plenty of room at the bottom,” Eng. Sci. (Caltech), vol. 23, no. 5, pp. 22–36, Dec. 1959 [Online]. Available: http://resolver. caltech.edu/CaltechES:23.5.1960Bottom](1960Bottom.pdf)
+17 : [I. F. Akyildiz, F. Brunetti, and C. Blazquez, “Nanonetworks: A new communication paradigm,” Elsevier Comput. Netw., vol. 52, no. 12, pp. 2260–2279, Aug. 2008.]()
+18 : [https://nanotechnology.blog/about/index/electromagnetic-communication](https://nanotechnology.blog/about/index/electromagnetic-communication)
 
 
