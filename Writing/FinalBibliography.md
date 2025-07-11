@@ -16,5 +16,8 @@
 16 : [R. P. Feynman, “Plenty of room at the bottom,” Eng. Sci. (Caltech), vol. 23, no. 5, pp. 22–36, Dec. 1959 [Online]. Available: http://resolver. caltech.edu/CaltechES:23.5.1960Bottom](1960Bottom.pdf)
 17 : [I. F. Akyildiz, F. Brunetti, and C. Blazquez, “Nanonetworks: A new communication paradigm,” Elsevier Comput. Netw., vol. 52, no. 12, pp. 2260–2279, Aug. 2008.]()
 18 : [https://nanotechnology.blog/about/index/electromagnetic-communication](https://nanotechnology.blog/about/index/electromagnetic-communication)
-
-
+19 : [S. Hiyama and Y. Moritani, “Molecular communication: Harnessing
+biochemical materials to engineer biomimetic communication systems,”
+Nano Commun. Netw., vol. 1, no. 1, pp. 20–30, Mar. 2010.]()
+20 : [J. Berthier and P. Silberzan, Microfluidics for Biotechnology, 2nd ed. Norwood, MA, USA: Artech House, 2009]()
+21 : [P. Cuatrecasas, “Membrane receptors,” Annu. Rev. Biochem., vol. 43, no. 1, pp. 169–214, Jul. 1974.]()

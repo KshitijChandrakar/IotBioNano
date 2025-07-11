@@ -1,6 +1,6 @@
 
 
-#set page(columns: 1)
+// #set page(columns: 1)
 #set par(
   justify: true,
   leading: 0.52em,
