@@ -1,4 +1,4 @@
-1 : [http://dx.doi.org/10.1016/j.nancom.2011.10.002](1-s2.0-S187877891100055X-main.pdf)
+ 1 : [http://dx.doi.org/10.1016/j.nancom.2011.10.002](1-s2.0-S187877891100055X-main.pdf)
 2 : [doi:10.1109/mcom.2014.6807957](J62.pdf)
 3 : [doi: 10.1002/anie.201609841](leigh2016.pdf)
 4 : [doi: 10.1109/TCOMM.2012.010213.110093](A_Physical_Channel_Model_for_Nanoscale_Neuro-Spike_Communications.pdf)
@@ -13,11 +13,28 @@
 13 : [10.1109/TCOMM.2015.2398857](unluturk2015.pdf)
 14 : [10.1109/TNB.2016.2627081](unluturk2016.pdf)
 15 : [Farsad, N., Yilmaz, H. B., Eckford, A., Chae, C. B., & Guo, W. (2016). A comprehensive survey of recent advancements in molecular communication. IEEE Communications Surveys & Tutorials, 18(3), 1887-1919.](A_Comprehensive_Survey_of_Recent_Advancements_in_Molecular_Communication.pdf)
-16 : [R. P. Feynman, “Plenty of room at the bottom,” Eng. Sci. (Caltech), vol. 23, no. 5, pp. 22–36, Dec. 1959 [Online]. Available: http://resolver. caltech.edu/CaltechES:23.5.1960Bottom](1960Bottom.pdf)
+16 : [R. P. Feynman, “Plenty of room at the bottom,” Eng. Sci. (Caltech), vol. 23, no. 5, pp. 22–36, Dec. 1959 \[Online\]. Available: http://resolver. caltech.edu/CaltechES:23.5.1960Bottom](1960Bottom.pdf)
 17 : [I. F. Akyildiz, F. Brunetti, and C. Blazquez, “Nanonetworks: A new communication paradigm,” Elsevier Comput. Netw., vol. 52, no. 12, pp. 2260–2279, Aug. 2008.]()
 18 : [https://nanotechnology.blog/about/index/electromagnetic-communication](https://nanotechnology.blog/about/index/electromagnetic-communication)
-19 : [S. Hiyama and Y. Moritani, “Molecular communication: Harnessing
+32 : [S. Hiyama and Y. Moritani, “Molecular communication: Harnessing
 biochemical materials to engineer biomimetic communication systems,”
 Nano Commun. Netw., vol. 1, no. 1, pp. 20–30, Mar. 2010.]()
-20 : [J. Berthier and P. Silberzan, Microfluidics for Biotechnology, 2nd ed. Norwood, MA, USA: Artech House, 2009]()
-21 : [P. Cuatrecasas, “Membrane receptors,” Annu. Rev. Biochem., vol. 43, no. 1, pp. 169–214, Jul. 1974.]()
+33 : [J. Berthier and P. Silberzan, Microfluidics for Biotechnology, 2nd ed. Norwood, MA, USA: Artech House, 2009]()
+34 : [P. Cuatrecasas, “Membrane receptors,” Annu. Rev. Biochem., vol. 43, no. 1, pp. 169–214, Jul. 1974.]()
+19 : [High frequency nano electromagnetic self-powered sensor: Concept, modelling and analysis](https://www.sciencedirect.com/science/article/pii/S0263224117302427)
+20 : [Carbon nanotubes as a basis for terahertz emitters and detectors](https://doi.org/10.1016/j.mejo.2008.11.016)
+21 : [Graphene-based nano-patch antenna for terahertz radiation](https://doi.org/10.1016/j.photonics.2012.05.011)
+22 : [Joint Energy Harvesting and Communication Analysis for Perpetual Wireless Nanosensor Networks in the Terahertz Band](doi.org/10.1109/TNANO.2012.2186313)
+23 : [On the Achievable Throughput of Energy-Harvesting Nanonetworks in the Terahertz Band](10.1109/JSEN.2017.2776301)
+24 : [Study of Electric Field Enhancement in Arrow-Pentagonal HfO₂/GaN/Au Multilayer Nanoantenna for Thermal Energy Harvesting](https://avestia.com/TANN2025_Proceedings/files/paper/TANN_144.pdf)
+25 : [A Review on Electromagnetic Metamaterial Absorbers and Its Application](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394275588.ch7)
+26 : [An Accessible Wafer-Scale Approach for Sub-10 nm Nanogap Fabrication and Its Optical Applications : 웨이퍼 스케일 Sub-10 nm 나노갭 제작법과 이를 기반으로 하는 광학적 응용](https://s-space.snu.ac.kr/handle/10371/220196)
+27 : [Energy harvesting-based thermal aware routing protocol for lung terahertz nanosensor networks](https://doi.org/10.1016/j.nancom.2025.100563)
+28 : [Fano resonated, ultrathin, flexible and ultrawideband absorption featured nano-metaatom structure with dispersion gap optimized for optical range applications](https://doi.org/10.1038/s41598-024-82254-5)
+29 : [Perfect Metamaterial Absorber](https://doi.org/10.1103/PhysRevLett.100.207402)
+30 : [DESIGNING SILICON NANOWIRE GEOMETRIC DIODES FOR HIGH FREQUENCY RECTIFICATION](https://www.proquest.com/openview/6ef0127ca7082b7ea5475223bfa9a704/1?pq-origsite=gscholar&cbl=18750&diss=y)
+31 : [Optimization of Hybrid Tunable Leaf-Shaped Optical Nano Antenna](10.1109/ICTMIM65579.2025.10988108)
+
+
+
+
