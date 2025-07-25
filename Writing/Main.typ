@@ -10,3 +10,6 @@
 #include "Introduction.typ"
 
 #include "Communication.typ"
+
+
+#bibliography("testingCitations.bib")

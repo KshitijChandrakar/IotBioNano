@@ -10,13 +10,13 @@ Along with the channel for communication, There needs to be a transmitter and a 
   - Information Particle release mechanism
 After the Information Particles are generated, there needs to be some mechanism to get the particles to the receiver. This can be diffusion based, flow based, or an engineered solution using Molecular motors. some of these are discussed in the following section.
 
-  + *Free Diffusion:* Also known as Brownian motion, refers to the random motion of a particle as it collides with other molecules in its vicinity. Through this random motion. The information particles can propagate from the transmitter to the receiver by utilizing the thermal energy of the channel. This can be accurately modeled through a Monte-Carlo simulation [33]. 
-  + *Diffusion with First Hitting:* Since MC creates a lot of noise in the channel environment, a lot of Information Particles may hit the receiver at the same time, causing a sort of race-condition. To prevent this, in Nature, most receptors remove the information molecules from the environment through various means [34]. Another way is to make sure that each signal contributes to the receiver only once. 
+  + *Free Diffusion:* Also known as Brownian motion, refers to the random motion of a particle as it collides with other molecules in its vicinity. Through this random motion. The information particles can propagate from the transmitter to the receiver by utilizing the thermal energy of the channel. This can be accurately modeled through a Monte-Carlo simulation @berthier2009microfluidics. 
+  + *Diffusion with First Hitting:* Since MC creates a lot of noise in the channel environment, a lot of Information Particles may hit the receiver at the same time, causing a sort of race-condition. To prevent this, in Nature, most receptors remove the information molecules from the environment through various means @cuatrecasas1974membrane. Another way is to make sure that each signal contributes to the receiver only once. 
   + *Flow Assisted Propagation:* While Diffusion is great, it has the disadvantage of being incredibly slow. One of the ways to increase it's speed is to introduce flow into the environment. The most effective way would be, from the transmitter to the receiver. An Example of all three combined in the human body is when certain organs secrete hormones that propagate using the blood-flow and diffuse into other, more distant parts of the body. 
   + *Molecular Motors:* Another way of Propagation is to transport the Information Particles actively using molecular motors, over microtubules. They're Naturally Occurring in cytoskeletons found throughout the cytoplasm, involved in maintaining the structure of the cell and providing platforms for a number of intracellular processes.
 
 #figure(
-  caption: [A Comparision of Various Methods of Propagation\[15\]],
+  caption: [A Comparision of Various Methods of Propagation @farsad2016comprehensive],
   table(
     columns: (auto, auto, auto, auto),
     inset: 10pt,
